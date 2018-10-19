@@ -2,6 +2,11 @@
 Here users can share their favorite programming principles
 
 
+|||
+|---|---|
+|![http://ramda.jcphillipps.com/logo/ramdaFilled_200x235.png](http://ramda.jcphillipps.com/logo/ramdaFilled_200x235.png)|![https://miro.medium.com/max/640/1*PFDFHEJZiETncPczyBVJOQ.jpeg](https://miro.medium.com/max/640/1*PFDFHEJZiETncPczyBVJOQ.jpeg)|
+(RambdaJS is cool)
+
  DRY
 --------
 ### as in Dont Repeat Yourself
