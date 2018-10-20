@@ -66,3 +66,12 @@ But other than that... done! Imagine the posibilities!!!
 With this in hand you can have a piece of the project that performs a series of tasks over some data. Maybe they pipe each transformation to the following function. And you could add a transformation or take one by adding or removing a file on your project.
 (And in the case we talked you would have to add/remove them from the index.js file of the module, but that's it).
 
+# Program against an interface
+(And not against a concrete function)
+To do so in languages without Interfaces, (like Python), means that you want to declare a contract.
+Anyone want to talk about this principle, will leave it for the taking.
+
+# SOLID?
+
+# TDD?
+
